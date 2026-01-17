@@ -1,0 +1,1 @@
+{\n  "name": "daedalus-memory-mvp",\n  "version": "0.1.0",\n  "description": "Daedalus Gate memory MVP (file-backed) - minimal implementation for tests",\n  "main": "bin/daedalus.js",\n  "bin": {\n    "daedalus": "bin/daedalus.js"\n  },\n  "scripts": {\n    "test": "node test/run-tests.js"\n  },\n  "engines": {\n    "node": ">=20"\n  },\n  "license": "MIT"\n}
